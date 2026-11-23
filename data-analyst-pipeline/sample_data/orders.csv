@@ -1,0 +1,13 @@
+order_id,order_date,customer_id,region,product_category,quantity,unit_price
+ORD-1001,2026-10-01,C001,South,Software,2,120.00
+ORD-1002,2026-10-02,C002,North,Hardware,1,250.00
+ORD-1003,10/03/2026,C003,East,Services,3,75.50
+ORD-1004,2026-10-03,C999,West,Software,1,100.00
+ORD-1005,2026-10-04,C001,South,Hardware,0,50.00
+ORD-1002,2026-10-02,C002,North,Hardware,1,250.00
+ORD-1006,2026-10-05,C002,North,Services,4,35.25
+ORD-1007,2026-10-06,C004,West,Software,1,invalid
+ORD-1008,2026-10-07,C003,East,Services,1,99.99
+ORD-1009,2026-10-09,C004,West,Hardware,2,79.00
+ORD-1010,2026-10-10,C001,South,Services,1,60.00
+ORD-1011,2026-10-11,C002,North,Software,2,25.00
